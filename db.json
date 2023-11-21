@@ -1,22 +1,22 @@
 {
   "data": {
-    inner: {
-      total: 100,
-      value: 50,
-      color: "#ff3490",
-      caption: "Semaine"
+    "inner": {
+      "total": 100,
+      "value": 50,
+      "color": "#ff3490",
+      "caption": "Semaine"
     },
-    middle: {
-      total: 100,
-      value: 37,
-      color: "#004502",
-      caption: "Mois"
+    "middle": {
+      "total": 100,
+      "value": 37,
+      "color": "#004502",
+      "caption": "Mois"
     },
-    outer: {
-      total: 100,
-      value: 89,
-      color: "#A2009D",
-      caption: "Année"
+    "outer": {
+      "total": 100,
+      "value": 89,
+      "color": "#A2009D",
+      "caption": "Année"
     },
   }
 }

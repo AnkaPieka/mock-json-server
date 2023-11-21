@@ -3,19 +3,19 @@
     inner: {
       total: 100;
       value: 50;
-      color: "#ff3490",
+      color: "#ff3490";
       caption: "Semaine"
     },
     middle: {
       total: 100;
       value: 37;
-      color: "#004502",
+      color: "#004502";
       caption: "Mois"
     },
     outer: {
       total: 100;
       value: 89;
-      color: "#A2009D",
+      color: "#A2009D";
       caption: "Année"
     },
   }

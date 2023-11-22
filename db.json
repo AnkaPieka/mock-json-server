@@ -2,7 +2,7 @@
   "data": {
     "inner": {
       "total": 128,
-      "value": 50,
+      "value": 12,
       "color": "#ff3490",
       "caption": "Semaine"
     },
@@ -14,7 +14,7 @@
     },
     "outter": {
       "total": 1267,
-      "value": 120,
+      "value": 1200,
       "color": "#A2009D",
       "caption": "Année"
     }

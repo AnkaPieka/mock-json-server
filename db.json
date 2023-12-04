@@ -40,6 +40,7 @@
       "title": "Informations 3",
       "description": "Une 3e description!",
       "hasDetails": true, 
-      "details": ["Un", "deux"],
+      "details": ["Un", "deux"]
+    },
   ],
 }

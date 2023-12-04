@@ -1,5 +1,5 @@
 {
-  "data": {
+  "hours": {
     "inner": {
       "total": 128,
       "value": 12,
@@ -18,5 +18,9 @@
       "color": "#A2009D",
       "caption": "Année"
     }
+  },
+  "desiderata": {
+      "total": 54,
+      "value": 12
   }
 }

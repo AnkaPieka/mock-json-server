@@ -22,5 +22,24 @@
   "desiderata": {
       "total": 54,
       "value": 12
-  }
+  },
+  "informations": [
+    {
+      "title": "Informations 1",
+      "description": "Une premiere description",
+      "hasDetails": false, 
+      "details": null
+    },
+    {
+      "title": "Informations 2",
+      "description": "Une deuxieme description...",
+      "hasDetails": false,
+      "details": null
+    },
+    {
+      "title": "Informations 3",
+      "description": "Une 3e description!",
+      "hasDetails": true, 
+      "details": ["Un", "deux"],
+  ],
 }

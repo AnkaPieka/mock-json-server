@@ -33,14 +33,14 @@
     {
       "title": "Informations 2",
       "description": "Une deuxieme description...",
-      "hasDetails": false,
-      "details": null
+      "hasDetails": true,
+      "details": ["Un", "deux"]
     },
     {
       "title": "Informations 3",
       "description": "Une 3e description!",
-      "hasDetails": true,
-      "details": ["Un", "deux"]
+      "hasDetails": false,
+      "details": null
     }
   ]
 }

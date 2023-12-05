@@ -1,47 +1,67 @@
 {
   "hours": {
-    "inner": {
-      "total": 128,
-      "value": 130,
-      "color": "#ff3490",
-      "caption": "Semaine"
+    "graph": {
+      "inner": {
+        "total": 128,
+        "value": 130,
+        "color": "#ff3490",
+        "caption": "Semaine"
+      },
+      "middle": {
+        "total": 567,
+        "value": 437,
+        "color": "#004502",
+        "caption": "Mois"
+      },
+      "outter": {
+        "total": 1267,
+        "value": 1200,
+        "color": "#A2009D",
+        "caption": "Année"
+      }
     },
-    "middle": {
-      "total": 567,
-      "value": 437,
-      "color": "#004502",
-      "caption": "Mois"
-    },
-    "outter": {
-      "total": 1267,
-      "value": 1200,
-      "color": "#A2009D",
-      "caption": "Année"
-    }
+    "informations": [
+      {
+        "title": "Informations 1",
+        "description": "Une premiere description",
+        "hasDetails": false,
+        "details": null
+      },
+      {
+        "title": "Informations 2",
+        "description": "Une deuxieme description...",
+        "hasDetails": true,
+        "details": ["Un", "deux"]
+      },
+      {
+        "title": "Informations 3",
+        "description": "Une 3e description!",
+        "hasDetails": false,
+        "details": null
+      }
+    ]
   },
   "desiderata": {
     "total": 54,
     "value": 34,
-    "color": "#990934"
-  },
-  "informations": [
-    {
-      "title": "Informations 1",
-      "description": "Une premiere description",
-      "hasDetails": false,
-      "details": null
-    },
-    {
-      "title": "Informations 2",
-      "description": "Une deuxieme description...",
-      "hasDetails": true,
-      "details": ["Un", "deux"]
-    },
-    {
-      "title": "Informations 3",
-      "description": "Une 3e description!",
-      "hasDetails": false,
-      "details": null
-    }
-  ]
+    "color": "#990934",
+    "categories": [
+      {
+        "name": "CP",
+        "value": 10
+      },
+      {
+        "name": "Congé autorisé non rémunéré",
+        "value": 0
+      },
+      {
+        "name": "Récup",
+        "value": 2
+      },
+      {
+        "name": "Maladie",
+        "value": 4
+      }      
+    ]
+  }
 }

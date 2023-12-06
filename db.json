@@ -2,40 +2,37 @@
   "hours": {
     "graph": {
       "inner": {
-        "total": 128,
-        "value": 130,
+        "total": 22,
+        "value": 39,
         "color": "#ff3490",
         "caption": "Semaine"
       },
       "middle": {
-        "total": 567,
-        "value": 437,
+        "total": 110,
+        "value": 195,
         "color": "#004502",
         "caption": "Mois"
       },
       "outter": {
-        "total": 1267,
-        "value": 1200,
+        "total": 780,
+        "value": 2340,
         "color": "#A2009D",
         "caption": "Année"
       }
     },
     "informations": [
       {
-        "title": "Informations 1",
-        "description": "Une premiere description",
+        "title": "39 h semaines",
         "hasDetails": false,
         "details": null
       },
       {
-        "title": "Informations 2",
-        "description": "Une deuxieme description...",
+        "title": "195 h ce mois",
         "hasDetails": true,
-        "details": ["Un", "deux"]
+        "details": ["110 h réalisées", "85 h restantes"]
       },
       {
-        "title": "Informations 3",
-        "description": "Une 3e description!",
+        "title": "2340 cette année",
         "hasDetails": false,
         "details": null
       }
@@ -44,7 +41,7 @@
   "desiderata": {
     "total": 54,
     "value": 34,
-    "color": "#990934",
+    "color": "#875334",
     "categories": [
       {
         "name": "CP",

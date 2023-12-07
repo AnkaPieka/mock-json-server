@@ -52,6 +52,14 @@
         "value": 0
       },
       {
+        "name": "Récup jour férié",
+        "value": 0
+      },
+      {
+        "name": "Congé maternité",
+        "value": 58
+      },
+      {
         "name": "Récup",
         "value": 2
       },

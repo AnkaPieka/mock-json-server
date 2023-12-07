@@ -22,20 +22,46 @@
     },
     "informations": [
       {
-        "title": "39 h semaines",
+        "title": "Période",
+        "description": "01.04.2023",
         "hasDetails": false,
         "details": null
       },
       {
-        "title": "195 h ce mois",
+        "title": "Type de rémunération",
+        "description": "Mensualisation",
         "hasDetails": true,
-        "details": ["110 h réalisées", "85 h restantes"]
+        "details": null
       },
       {
-        "title": "2340 cette année",
+        "title": "Taux d'activité",
+        "description": "100 %",
         "hasDetails": false,
         "details": null
       }
+      {
+        "title": "Contrat",
+        "description": "35 h / 5 jours",
+        "hasDetails": false,
+        "details": null
+      },
+      {
+        "title": "Nombre de jours travaillés",
+        "description": "19",
+        "hasDetails": false,
+        "details": null
+      },
+      {
+        "title": "Temps dû sur la période",
+        "description": "133:00:00",
+        "hasDetails": true,
+        "details": [
+          {"title": "Solde au 31.03.2023", "value": "05:30:00"}, 
+          {"title": "Temps effectif sur la période", "value": "142:00:00"}],
+          {"title": "Temps dû la période", "value": "133:00:00"},
+          {"title": "Solde au 30.04.2023", "value": "14:00:00"}
+        ]
+      },
     ]
   },
   "desiderata": {

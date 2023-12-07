@@ -41,8 +41,8 @@
       },
       {
         "title": "Informations 4",
-        "hasDetails": true,
-        "details": ["Un", "deux"]
+        "hasDetails": false,
+        "details": null
       },
       {
         "title": "Contrat",

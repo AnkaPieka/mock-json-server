@@ -31,7 +31,13 @@
         "title": "Type de rémunération",
         "description": "Mensualisation",
         "hasDetails": true,
-        "details": null
+        "details": [
+          {"title": "test", "value": "111"}, 
+          {"title": "test", "value": "222"},
+          {"title": "test", "value": "333"},
+          {"title": "test", "value": "444"}
+        ]
+        ]
       },
       {
         "title": "Taux d'activité",

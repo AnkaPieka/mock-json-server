@@ -3,20 +3,20 @@
     "graph": {
       "inner": {
         "total": 39,
-        "value": 33,
-        "color": "#ff3490",
+        "value": 3,
+        "color": "#4330C8",
         "caption": "Semaine"
       },
       "middle": {
         "total": 195,
         "value": 110,
-        "color": "#004502",
+        "color": "#C84330",
         "caption": "Mois"
       },
       "outter": {
         "total": 2340,
-        "value": 780,
-        "color": "#A2009D",
+        "value": 1780,
+        "color": "#30C843",
         "caption": "Année"
       }
     },
@@ -72,7 +72,7 @@
   "desiderata": {
     "total": 54,
     "value": 34,
-    "color": "#875334",
+    "color": "#C83069",
     "categories": [
       {
         "name": "CP",

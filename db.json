@@ -67,7 +67,24 @@
       "description": "35 h / 5 jours",
       "hasDetails": false,
       "details": null
-    }
+    },
+    {
+      "title": "Encore un test",
+      "description": "35 h / 5 jours",
+      "hasDetails": false,
+      "details": null
+    },
+    {
+      "title": "Autres informations importantes",
+      "description": "Mensualisation",
+      "hasDetails": true,
+      "details": [
+        {"title": "teeeeeeeeeest", "value": "111"}, 
+        {"title": "teeeest", "value": "222"},
+        {"title": "test", "value": "333"},
+        {"title": "tes$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$t", "value": "444"}
+      ]
+    },
   ],
   "desiderata": {
     "total": 54,

@@ -19,56 +19,56 @@
         "color": "#30C843",
         "caption": "Année"
       }
-    },
-    "informations": [
-      {
-        "title": "Période",
-        "description": "01.04.2023",
-        "hasDetails": false,
-        "details": null
-      },
-      {
-        "title": "Type de rémunération",
-        "description": "Mensualisation",
-        "hasDetails": true,
-        "details": [
-          {"title": "test", "value": "111"}, 
-          {"title": "test", "value": "222"},
-          {"title": "test", "value": "333"},
-          {"title": "test", "value": "444"}
-        ]
-      },
-      {
-        "title": "Taux d'activité",
-        "description": "100 %",
-        "hasDetails": false,
-        "details": null
-      },
-      {
-        "title": "Contrat",
-        "description": "35 h / 5 jours",
-        "hasDetails": false,
-        "details": null
-      },
-      {
-        "title": "Nombre de jours travaillés",
-        "description": "19",
-        "hasDetails": false,
-        "details": null
-      },
-      {
-        "title": "Temps dû sur la période",
-        "description": "133:00:00",
-        "hasDetails": true,
-        "details": [
-          {"title": "Solde au 31.03.2023", "value": "05:30:00"}, 
-          {"title": "Temps effectif sur la période", "value": "142:00:00"},
-          {"title": "Temps dû la période", "value": "133:00:00"},
-          {"title": "Solde au 30.04.2023", "value": "14:00:00"}
-        ]
-      }
-    ]
+    }
   },
+  "informations": [
+    {
+      "title": "Période",
+      "description": "01.04.2023 - 30.04.2023",
+      "hasDetails": false,
+      "details": null
+    },
+    {
+      "title": "Temps dû sur la période",
+      "description": "133:00:00",
+      "hasDetails": true,
+      "details": [
+        {"title": "Solde au 31.03.2023", "value": "05:30:00"}, 
+        {"title": "Temps effectif sur la période", "value": "142:00:00"},
+        {"title": "Temps dû la période", "value": "133:00:00"},
+        {"title": "Solde au 30.04.2023", "value": "14:00:00"}
+      ]
+    },
+    {
+      "title": "Nombre de jours travaillés",
+      "description": "19",
+      "hasDetails": false,
+      "details": null
+    }
+    {
+      "title": "Type de rémunération",
+      "description": "Mensualisation",
+      "hasDetails": true,
+      "details": [
+        {"title": "test", "value": "111"}, 
+        {"title": "test", "value": "222"},
+        {"title": "test", "value": "333"},
+        {"title": "test", "value": "444"}
+      ]
+    },
+    {
+      "title": "Taux d'activité",
+      "description": "100 %",
+      "hasDetails": false,
+      "details": null
+    },
+    {
+      "title": "Contrat",
+      "description": "35 h / 5 jours",
+      "hasDetails": false,
+      "details": null
+    }
+  ],
   "desiderata": {
     "total": 54,
     "value": 34,

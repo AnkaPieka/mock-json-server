@@ -84,7 +84,7 @@
         {"title": "test", "value": "333"},
         {"title": "tes$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$t", "value": "444"}
       ]
-    },
+    }
   ],
   "desiderata": {
     "total": 54,

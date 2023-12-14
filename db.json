@@ -3,13 +3,13 @@
     "graph": {
       "inner": {
         "total": 39,
-        "value": 38,
+        "value": 43,
         "color": "#4330C8",
         "caption": "Semaine"
       },
       "middle": {
         "total": 195,
-        "value": 110,
+        "value": 200,
         "color": "#C84330",
         "caption": "Mois"
       },

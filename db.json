@@ -36,9 +36,7 @@
         {"title": "Solde au 31.03.2023", "value": "05:30:00"}, 
         {"title": "Temps effectif sur la période", "value": "142:00:00"},
         {"title": "Temps dû la période", "value": "133:00:00"},
-        {"title": "Solde au 30.04.2023", "value": "14:00:00"},
-        {"title": "Test", "value": "00:00:00"},
-        {"title": "Testtt", "value": "00:00:00"}
+        {"title": "Solde au 30.04.2023", "value": "14:00:00"}
       ]
     },
     {

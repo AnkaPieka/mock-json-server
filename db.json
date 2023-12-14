@@ -3,7 +3,7 @@
     "graph": {
       "inner": {
         "total": 39,
-        "value": 49,
+        "value": 38,
         "color": "#4330C8",
         "caption": "Semaine"
       },
@@ -15,7 +15,7 @@
       },
       "outter": {
         "total": 2340,
-        "value": 1780,
+        "value": 2780,
         "color": "#30C843",
         "caption": "Année"
       }

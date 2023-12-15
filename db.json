@@ -35,12 +35,6 @@
       "details": null
     },
     {
-      "title": "Nombre de jours travaillés",
-      "description": "19",
-      "hasDetails": false,
-      "details": null
-    },
-    {
       "title": "Temps dû sur la période",
       "description": "133:00:00",
       "hasDetails": true,
